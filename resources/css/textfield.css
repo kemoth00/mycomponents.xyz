@@ -1,0 +1,7 @@
+.text-default{
+    @apply w-full py-2 px-2 rounded-lg bg-gray-700 focus:outline-none;
+}
+
+.text-search{
+    @apply w-full py-2 px-2 rounded-lg bg-gray-700 grow focus:outline-none mt-1;
+}
